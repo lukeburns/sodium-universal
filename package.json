@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "resolve": "^1.17.0",
-    "sodium-native": "^3.2.0",
-    "sodium-javascript": "~0.7.2",
+    "sodium-native": "lukeburns/sodium-native#ristretto",
+    "sodium-javascript": "lukeburns/sodium-javascript#ristretto",
     "blake2b": "^2.1.1",
     "chacha20-universal": "^1.0.4",
     "nanoassert": "^2.0.0",
